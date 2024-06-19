@@ -4,3 +4,5 @@ Untuk pengerjaan LogosFest mohon mengikuti list yang tertera disini [MVP](https:
 
 untuk pengerjaan issue diutamakan yang memiliki label <b>enhancement</b> <b>important</b> </br>
 sedangkan untuk issue dokumentasi page memiliki label <b>documentation</b> <b>important</b> untuk melacak progress page 
+
+# Tambahkan Feature Testing
